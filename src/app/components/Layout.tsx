@@ -43,7 +43,7 @@ export function Layout() {
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 bg-clip-text text-transparent">
-                  TrustLens AI 2.0
+                  TrustLens AI
                 </h1>
                 <p className="text-xs text-slate-600 dark:text-slate-400">Real-time Trust Verification</p>
               </div>
